@@ -53,10 +53,3 @@ btnJew.onclick = function () {
             .then(loadResolve)
             .then(logData)
 };
-
-// function clear(){
-//     const li = document.getElementsByTagName('li');
-//     console.log()
-//     // li.remove()
-
-// }
